@@ -5,7 +5,7 @@ Programa desenvolvido em python, utiliza interface gráfica gerada através do T
 
 | ![Demonstracao.gif](./image/Demonstracao.gif) | 
 |:--:| 
-| *Demonstração feita utilizando a versão [executável](https://github.com/mvarocha/QR_Code_Generator/raw/main/code/Execut%C3%A1vel.rar) do programa.* |
+| *Demonstração feita utilizando a versão [executável](https://github.com/mvarocha/QRCodeGenerator/raw/main/code/App.rar) do programa.* |
 
 
 #### Para executar o [código fonte](./code/QR.pyw), instale as dependências:
